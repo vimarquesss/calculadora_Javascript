@@ -1,2 +1,3 @@
 # calculadora_Javascript
-Calculadora desenvolvida em HTML, CSS e Javascript.
+Calculadora funcional desenvolvida em HTML, CSS e Javascript.
+Utilizando funções e outros recursos em JS.
